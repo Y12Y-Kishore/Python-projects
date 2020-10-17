@@ -7,3 +7,4 @@ for i in key:
     dic[i] = value[y]
     y = y + 1
 print(dic)
+z=10
